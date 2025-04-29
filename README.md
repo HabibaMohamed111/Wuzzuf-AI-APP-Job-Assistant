@@ -39,7 +39,7 @@ Prerequisites
 
 2- Run the application:   👉🏻 streamlit run wuzzufAPP.py
 
-# notes :
+# 📑 notes :
 when you run the application, please drag and drop (final_cleaned_data(1).csv) file
 
 # 📊 Sample Analysis
