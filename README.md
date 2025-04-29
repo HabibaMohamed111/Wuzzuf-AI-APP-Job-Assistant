@@ -13,59 +13,55 @@
 🤖 AI-Powered: Uses sentence transformers for semantic skill matching
 
 # 🛠️ Technologies Used
-Python 3
+- Python 3
 
-Streamlit (Web Framework)
+- Streamlit (Web Framework)
 
-Pandas, NumPy (Data Processing)
+- Pandas, NumPy (Data Processing)
 
-Sentence Transformers (AI Embeddings)
+- Sentence Transformers (AI Embeddings)
 
-Scikit-learn (Cosine Similarity)
+- Scikit-learn (Cosine Similarity)
 
-Matplotlib, Seaborn, Plotly (Visualization)
+- Matplotlib, Seaborn, Plotly (Visualization)
 
-WordCloud (Text Analysis)
+- WordCloud (Text Analysis)
 
 # 🚀 Getting Started
 Prerequisites
-Python 3.8+
+- Python 3.8+
 
-pip package manager
+- pip package manager
 
 # Installation
 
-1- Install dependencies:
+1- Install dependencies:  👉🏻 pip install -r requirements.txt
 
-pip install -r requirements.txt
-
-2- Run the application:
-
-streamlit run wuzzufAPP.py
+2- Run the application:   👉🏻 streamlit run wuzzufAPP.py
 
 # 📊 Sample Analysis
-The app provides:
+## The app provides:
 
-Top companies by job postings
+1- Top companies by job postings
 
-Most demanded skills
+2- Most demanded skills
 
-Job title word clouds
+3- Job title word clouds
 
-Location-based hiring trends
+4- Location-based hiring trends
 
-Skill similarity matching
+5- Skill similarity matching
 
 # Data Requirements
 Upload a CSV/Excel file containing Wuzzuf job data with these columns (minimum):
 
-Title - Job title
+1- Title - Job title
 
-Company - Company name
+2- Company - Company name
 
-Skills - Comma-separated skills list
+3- Skills - Comma-separated skills list
 
-(Optional) City, Region for location analysis
+4- (Optional) City, Region for location analysis
 
 ## 🧙‍♂️ Team  
 **Developed with  by Data Mafia** 🕵🏻‍♀️ 
