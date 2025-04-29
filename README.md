@@ -1,5 +1,5 @@
 # 🌟 Overview
-# Wuzzuf AI Job Assistant is an intelligent Streamlit application that analyzes job market data from Wuzzuf (Middle Eastern job platform) to provide actionable insights and personalized job recommendations. The app helps job seekers understand market trends and find jobs matching their skills.
+##  Wuzzuf AI Job Assistant is an intelligent Streamlit application that analyzes job market data from Wuzzuf (Middle Eastern job platform) to provide actionable insights and personalized job recommendations. The app helps job seekers understand market trends and find jobs matching their skills.
 
 # ✨ Key Features
 📊 Interactive Visualizations: Explore top companies, job titles, skills, and locations
